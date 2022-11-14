@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cpd22
 - 👀 I’m interested in machine learning and AI applications in medicine
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working to expand my skillset in applying machine learning solutions in healthcare.
+- 💞️ I’m looking to collaborate on automated diagnostic platforms
+- 📫 To reach me please reach out via linkedin
 
 <!---
 cpd22/cpd22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
