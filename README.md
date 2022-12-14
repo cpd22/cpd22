@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cpd22
-- 👀 I’m interested in machine learning and AI applications in medicine
-- 🌱 I’m currently working to expand my skillset in applying machine learning solutions in healthcare.
-- 💞️ I’m looking to collaborate on automated diagnostic platforms
+- 👀 I’m interested in data science, machine learning, and AI applications in medicine and healthcare
+- 🌱 I’m currently working in data science and clinical trial related to stroke and neuroscience
 - 📫 To reach me please reach out via linkedin
 
 <!---
